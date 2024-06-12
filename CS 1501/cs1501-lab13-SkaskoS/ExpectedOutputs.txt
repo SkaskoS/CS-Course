@@ -1,0 +1,23 @@
+java ChangeMaker change-input-1.txt
+The minimum number of coins to make a change of value 9 is 3
+The selected coins are: [4, 4, 1]
+
+$ java ChangeMaker change-input-2.txt
+The minimum number of coins to make a change of value 9 is 2
+The selected coins are: [3, 6]
+
+$ java ChangeMaker change-input-3.txt
+The minimum number of coins to make a change of value 30 is 3
+The selected coins are: [10, 10, 10]
+
+$ java KnapSack knapsack-input-1.txt
+The maximum value that can fit with a knapsack of size 10 is 46
+The selected items are: [(weight=4, value=16), (weight=6, value=30)]
+
+$ java KnapSack knapsack-input-2.txt
+The maximum value that can fit with a knapsack of size 5 is 7
+The selected items are: [(weight=3, value=4), (weight=2, value=3)]
+
+$ java KnapSack knapsack-input-3.txt
+The maximum value that can fit with a knapsack of size 5 is 10
+The selected items are: [(weight=4, value=7), (weight=1, value=3)]

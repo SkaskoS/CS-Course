@@ -1,0 +1,14 @@
+4
+2 3
+3 4
+4 5
+5 6
+5
+/**
+ * Input File Structure:
+ * # items
+ * 1st_item's_weight 1st_item's_value
+ * 2nd_item's_weight 2nd_item's_value
+ * ...
+ * KnapSack capacity
+ */

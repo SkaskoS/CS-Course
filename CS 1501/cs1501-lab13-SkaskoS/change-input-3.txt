@@ -1,0 +1,13 @@
+3
+25
+10
+1
+30
+/**
+ * Input File Structure:
+ * # coins
+ * 1st coin value
+ * 2nd coin value
+ * ...
+ * change value
+ */
